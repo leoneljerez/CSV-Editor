@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV Editor", "CSV Editor\CSV Editor.csproj", "{B805BDFC-F713-44D2-B2B3-B4B75F04A755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B805BDFC-F713-44D2-B2B3-B4B75F04A755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B805BDFC-F713-44D2-B2B3-B4B75F04A755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B805BDFC-F713-44D2-B2B3-B4B75F04A755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B805BDFC-F713-44D2-B2B3-B4B75F04A755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA6FA078-593B-4F2B-93C2-75293D3A9FE1}
+	EndGlobalSection
+EndGlobal

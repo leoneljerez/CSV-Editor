@@ -1,0 +1,10 @@
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\obj\Debug\CSV Editor.csprojAssemblyReference.cache
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\obj\Debug\CSV_Editor.Form1.resources
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\obj\Debug\CSV_Editor.Properties.Resources.resources
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\obj\Debug\CSV Editor.csproj.GenerateResource.cache
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\obj\Debug\CSV Editor.csproj.CoreCompileInputs.cache
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\bin\Debug\CSV Editor.exe.config
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\bin\Debug\CSV Editor.exe
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\bin\Debug\CSV Editor.pdb
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\obj\Debug\CSV Editor.exe
+C:\Users\leone\Desktop\First Visual\Source\CSV Editor Solution\CSV Editor\obj\Debug\CSV Editor.pdb
